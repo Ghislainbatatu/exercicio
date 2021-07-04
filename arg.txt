@@ -1,0 +1,44 @@
+    1  ls
+    2  ls -a
+    3  cd Desktop/
+    4  ls
+    5  ls
+    6  clear
+    7  ls
+    8  cd desktop.ini 
+    9  ls
+   10  ls
+   11  Cd aula
+   12  ls
+   13  clear
+   14  ls
+   15  ls -a
+   16  cd desktop.ini 
+   17  cd desktop.ini 
+   18  clear
+   19  ls
+   20  ls -a
+   21  Cd desktop.ini 
+   22  clear
+   23  ls
+   24  ls -a
+   25  cd Navegador\ Opera.lnk 
+   26  ls
+   27  ls
+   28  cd desktop.ini 
+   29  ls
+   30  cd aula
+   31  mkdir ghislain
+   32  ls
+   33  cd ghislain/
+   34  echo > info.txt
+   35  ls
+   36  ls
+   37  ls -a
+   38  cd Desktop/
+   39  ls
+   40  cd bat/
+   41  ls
+   42  cd aula\ com\ severino.txt 
+   43  cat aula\ com\ severino.txt 
+   44  history > arg.txt
