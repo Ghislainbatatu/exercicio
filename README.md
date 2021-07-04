@@ -1,1 +1,3 @@
-# exercicio
+# Exercicio
+
+### Meu primeiro respositor criado
